@@ -1,0 +1,21 @@
+/home/aniforos/Lab05
+example1.c
+example2.c
+example3.c
+example4.c
+example5.c
+example6.c
+log
+  File: example1.c
+  Size: 485       	Blocks: 8          IO Block: 4096   regular file
+Device: 811h/2065d	Inode: 295289      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1238/aniforos)   Gid: ( 1240/aniforos)
+Access: 2024-12-19 12:54:23.075893829 +0200
+Modify: 2024-12-19 12:54:23.075893829 +0200
+Change: 2024-12-19 12:54:23.075893829 +0200
+ Birth: -
+cp: cannot stat 'source.txt': No such file or directory
+mv: cannot stat 'oldname.txt': No such file or directory
+rm: cannot remove 'file_to_delete.txt': No such file or directory
+rm: cannot remove 'direcotry_to_delete': No such file or directory
+cat: file.txt: No such file or directory
